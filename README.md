@@ -1,1 +1,4 @@
-"# Exploratory_Data_Analysis_PCA_SVD_HandsOn" 
+# EDA, PCA, SVD HandsOn
+
+Peformed Exploratory Data Analysis on Diabetes.csv
+Implemented Principal Component Analysis and Singular-Value Decomposition
